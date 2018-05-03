@@ -18,7 +18,7 @@ Family Echo is a free online website that allows users to make their own family 
 
 ### Create a Family Echo Account
 * Go to [https://www.familyecho.com/](https://www.familyecho.com/)
-* Select **Create a new Family Echo Account**. Enter a Username, Password, and email address.
+* Select __Create a new Family Echo Account__. Enter a Username, Password, and email address.
 * Family Echo is free to use.
 
 [Return to Top](#about)
