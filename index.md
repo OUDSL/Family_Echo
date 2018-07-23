@@ -1,5 +1,5 @@
 ## About
-Last Updated 18 April 2018  
+Last Updated 23 July 2018  
 Created by Wendy Jordan | Updated by Chelsea Smith-Antonides
 
 ## Table of Contents
