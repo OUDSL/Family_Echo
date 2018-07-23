@@ -41,7 +41,7 @@ Family Echo is a free online website that allows users to make their own family 
   - A Photo
 * When you're ready to save you Family Tree, select **Save**. It will automatically save the tree to your account under the title **My Family**. To retitle the tree, go to **My Account** and select the **Rename** button next to your tree.
 
-![Image of Tree in Progress](images/FamilyTree003.png)
+![Image of Tree in Progress](images/FamilyTree004.png)
 
 [Return to Top](#about)
 
