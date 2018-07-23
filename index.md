@@ -1,6 +1,6 @@
 ## About
 Last Updated 18 April 2018  
-Created by Wendy Jordan
+Created by Wendy Jordan | Updated by Chelsea Smith-Antonides
 
 ## Table of Contents
 * [What is Family Echo?](#what-is-family-echo)
@@ -10,7 +10,7 @@ Created by Wendy Jordan
 * [Including Your Tree as an HTML iframe on your site](#including-your-tree-as-an-html-iframe-on-your-site)
 
 ## What is Family Echo?
-Family Echo is a free online website that allows users to make their own family trees. One user can have several different family tree projects.
+Family Echo is a free online website that allows users to make their own family trees. One user can have several different family tree projects, allowing you to create multiple personal trees or even historical trees for research. 
 
 [Return to Top](#about)
 
@@ -18,14 +18,20 @@ Family Echo is a free online website that allows users to make their own family 
 
 ### Create a Family Echo Account
 * Go to [https://www.familyecho.com/](https://www.familyecho.com/)
-* Select __Create a new Family Echo Account__. Enter a Username, Password, and email address.
+* Click **Sign In** in the upper right corner, and then select __Create a new Family Echo Account__. Enter a Username, Password, and email address.
 * Family Echo is free to use.
+
+![Family Echo Homepage](images/FamilyTree001.png)
 
 [Return to Top](#about)
 
 ### Building Your Family Tree
 * You will be asked to enter your name and information; if you are making your personal family tree, do this. If you are making a historical family tree that is not personal to you, simply fill in the information for the first person in the tree you wish to include.
-* After filling in the information for the first person on your tree, use the different options located on the left side of the screen to add relatives. Continue this process of adding relatives until you have included each person for your tree.
+* After filling in the information for the first person on your tree, use the different options located on the left side of the screen to add relatives. You can add biographical details, career information, contact information, and even interests or activities to make each entry as detailed as possible. 
+* Repeat this process, adding relatives, until you have included each person you wish to add to your tree. You can always go back and add more information, edit your information, or add more relatives, later. 
+
+![Sidebar Image](images/FamilyTree002.png)
+
 * Details can include: 
   - Birth/Death Date 
   - Name 
@@ -34,6 +40,8 @@ Family Echo is a free online website that allows users to make their own family 
   - Biographical Information 
   - A Photo
 * When you're ready to save you Family Tree, select **Save**. It will automatically save the tree to your account under the title **My Family**. To retitle the tree, go to **My Account** and select the **Rename** button next to your tree.
+
+![Image of Tree in Progress](images/FamilyTree003.png)
 
 [Return to Top](#about)
 
