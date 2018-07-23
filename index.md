@@ -42,6 +42,7 @@ Family Echo is a free online website that allows users to make their own family 
 
 ![Image of Tree in Progress](images/FamilyTree004.png)
 
+* Each person you add will automatically be added to the branch on the right side of the screen. 
 * When you're ready to save you Family Tree, select **Save**. It will automatically save the tree to your account under the title **My Family**. 
 * To change the title of your tree, go to **My Account** in the upper right hand corner and then select the **Rename** button next to your tree.
 
