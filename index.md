@@ -39,17 +39,24 @@ Family Echo is a free online website that allows users to make their own family 
   - Partners/Exes 
   - Biographical Information 
   - A Photo
-* When you're ready to save you Family Tree, select **Save**. It will automatically save the tree to your account under the title **My Family**. To retitle the tree, go to **My Account** and select the **Rename** button next to your tree.
 
 ![Image of Tree in Progress](images/FamilyTree004.png)
+
+* When you're ready to save you Family Tree, select **Save**. It will automatically save the tree to your account under the title **My Family**. 
+* To change the title of your tree, go to **My Account** in the upper right hand corner and then select the **Rename** button next to your tree.
+
+![Image of Edit Option](images/FamilyTree005.png)
 
 [Return to Top](#about)
 
 ## Including Your Tree as an HTML iframe on your site
 The technical difficulty with family echo is that its general options for exporting a family tree are slightly complicated, and are not compatible with Omeka, which is where this particular tree was being put. The best possible way to combat this was by using an *HTML iframe*.
-* To use an iframe of your family tree, select someone on the tree *Without a Death Date* and then click to ***Share*** button; this is because Family Echo by design assumes you are working with some living people, and you therefore cannot share with a non-living person.
+* To use an iframe of your family tree, select someone on the tree *Without a Death Date* and then click to ***Share*** button in the upper right hand corner of the page; this is because Family Echo by design assumes you are working with some living people, and you therefore cannot share with a non-living person.
    * This selected person will be the first person visitors to your site will see in your iframe, if you would like the first person seen to be someone else on the tree that has a death date, go back and delete their death date. You can always re-add it after creating the iframe on your website.
 * Copy the link found in the URL box.
+
+![Image of URL box](images/FamilyTree006.png)
+
 * Go to your Omeka admin dashboard for your site. *These instructions will be geared specifically to Omeka, but you can follow the same basic steps for any platform supports html editing like WordPress)*
 * Navigate to edit the page on wish you want to put your family tree. Select **HTML** above the text box for the page.
 * Type < iframe src="yourcopiedlinkhere"> < /iframe>
