@@ -53,8 +53,9 @@ Family Echo is a free online website that allows users to make their own family 
 ## Including Your Tree as an HTML iframe on your site
 The technical difficulty with family echo is that its general options for exporting a family tree are slightly complicated, and are not compatible with Omeka, which is where this particular tree was being put. The best possible way to combat this was by using an *HTML iframe*.
 * To use an iframe of your family tree, select someone on the tree *Without a Death Date* and then click to ***Share*** button in the upper right hand corner of the page; this is because Family Echo by design assumes you are working with some living people, and you therefore cannot share with a non-living person.
-   * This selected person will be the first person visitors to your site will see in your iframe, if you would like the first person seen to be someone else on the tree that has a death date, go back and delete their death date. You can always re-add it after creating the iframe on your website.
-* Copy the link found in the URL box.
+   * This selected person will be the first person visitors to your site will see in your iframe. 
+   * If you would like someone else to be the first person that visitors will see, go back and delete their death date (if they have one). You can always re-add it after creating the iframe on your website. 
+* Copy the link found in the URL box. 
 
 ![Image of URL box](images/FamilyTree006.png)
 
